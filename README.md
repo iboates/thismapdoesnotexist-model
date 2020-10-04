@@ -3,7 +3,7 @@ Trained StyleGAN2 Model for generating 256px OpenStreetMap lookalikes
 
 ## Model
 
-You can download the model from my [Google Drive](https://drive.google.com/file/d/1phVKU_pJ4q-rTUzAlaG6JX48ZIi4WYls/view?usp=sharing).
+The model is too big for Github, so you can download it from my [Google Drive](https://drive.google.com/file/d/1phVKU_pJ4q-rTUzAlaG6JX48ZIi4WYls/view?usp=sharing).
 
 ## Use
 
